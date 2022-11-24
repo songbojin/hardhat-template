@@ -11,6 +11,8 @@
 
 A Hardhat-based template for developing Solidity smart contracts, with sensible defaults.
 
+Test
+
 - [Hardhat](https://github.com/nomiclabs/hardhat): compile, run and test smart contracts
 - [TypeChain](https://github.com/ethereum-ts/TypeChain): generate TypeScript bindings for smart contracts
 - [Ethers](https://github.com/ethers-io/ethers.js/): renowned Ethereum library and wallet implementation
