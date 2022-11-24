@@ -28,6 +28,9 @@ jobs:
         run: "yarn install --immutable"
 
       - name: "Lint the code"
+        run: "yarn prettier"
+
+      - name: "Lint the code"
         run: "yarn lint"
 
       - name: "Add lint summary"

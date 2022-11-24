@@ -24,7 +24,6 @@ Test
 
 Test
 
-
 Click the [`Use this template`](https://github.com/paulrberg/hardhat-template/generate) button at the top of the page to
 create a new repository with this repo as the initial state.
 
